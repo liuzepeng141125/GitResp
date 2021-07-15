@@ -1,4 +1,4 @@
-package com.msb;
+﻿package com.msb;
 
 /**
  * @Auther: 刘泽鹏
@@ -10,5 +10,6 @@ public class Student {
     private String name;
     private String sex;
     private double height;
+    private int age;
     private double weight;
 }
